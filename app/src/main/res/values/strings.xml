@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jetpack-take-select-photo-image-2</string>
+    <string name="fileprovider">com.jerry.jetpack_take_select_photo_image.components.fileprovider</string>
+</resources>
